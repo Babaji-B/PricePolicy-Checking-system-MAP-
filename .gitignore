@@ -6,6 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore environment files
+.env
+scripts/threshold_values.json
+scripts/config.py
+exchange_cache.json
+scripts/exchange_cache.json
+
+
+
+# Ignore Python cache and logs
+__pycache__/
+logs/
+venv/
+
+
 # Distribution / packaging
 .Python
 build/
