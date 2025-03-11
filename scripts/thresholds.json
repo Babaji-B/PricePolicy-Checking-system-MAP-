@@ -1,0 +1,7 @@
+{
+    "IND": {"Laptop": 1, "Monitor": 2, "Desktop": 1, "Ink": 4, "Toner": 4, "LaserJet": 5, "Scanjet": 4, "Inkjet": 4},
+    "USA": {"Laptop": 4, "Monitor": 3, "Desktop": 3, "Ink": 6, "Toner": 7, "LaserJet": 5, "Scanjet": 5, "Inkjet": 6},
+    "UK": {"Laptop": 3, "Monitor": 3, "Desktop": 2, "Ink": 6, "Toner": 6, "LaserJet": 7, "Scanjet": 5, "Inkjet": 6},
+    "UAE": {"Laptop": 2, "Monitor": 2, "Desktop": 2, "Ink": 5, "Toner": 4, "LaserJet": 4, "Scanjet": 5, "Inkjet": 3},
+    "CAN": {"Laptop": 3, "Monitor": 2, "Desktop": 2, "Ink": 6, "Toner": 7, "LaserJet": 5, "Scanjet": 5, "Inkjet": 4}
+}
